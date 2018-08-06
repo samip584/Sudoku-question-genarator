@@ -1,5 +1,5 @@
 Sudoku Question Genarator
-Sudoku Question Genarator Genarates a simple 9*9 sudoku code not compulsorily having a unique solution and it can genarate millions of questions randomly
+Sudoku Question Genarator Genarates a simple 9*9 sudoku puzzle not compulsorily having a unique solution and it can genarate millions of questions randomly
 
 Development
 I used python 3.6.5 on Ubuntu 18.04 LTS
